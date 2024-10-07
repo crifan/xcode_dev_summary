@@ -25,7 +25,7 @@ TODO：
             * ->
             * https://download.developer.apple.com/Developer_Tools/Xcode_12.5.1/Xcode_12.5.1.xip
 
-> #### Caution::安装Xcode前要确认自己的macOS版本是否满足要求
+> [!Caution|title:安装Xcode前要确认自己的macOS版本是否满足要求]
 > 要安装XCode 13.0，发现当前MacOS版本`macOS Catalina 10.15.7`不支持，无法安装。
 > 
 > 导致了必须去升级macOS到最新版：`macOS 11.6 Big Sur`才能正常继续安装XCode的。
